@@ -28,7 +28,7 @@ A powerful and user-friendly **Role Management Dashboard** built to manage roles
 
 ---
 
-## Tech Stack
+## Tech Stack 💻
 
 This project is built using the following technologies:
 
@@ -42,7 +42,7 @@ This project is built using the following technologies:
 
 ---
 
-## Installation
+## Installation 📋
 
 ### Prerequisites
 Before you start, ensure you have the following installed on your local machine:
