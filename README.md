@@ -67,7 +67,7 @@ Before you start, ensure you have the following installed on your local machine:
    Run the following command to install all the required dependencies:
 
    npm install
-   # or if using yarn
+   #### or if using yarn
    yarn install
 
 
@@ -75,7 +75,7 @@ Before you start, ensure you have the following installed on your local machine:
    Once the dependencies are installed, run the following command to start the development server:
  
    npm start
-   # or if using yarn
+   #### or if using yarn
    yarn start
 
 
