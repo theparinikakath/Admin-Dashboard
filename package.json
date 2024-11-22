@@ -1,4 +1,7 @@
 {
+  "engines":{
+    "node":"18.16.1
+  },
   "name": "admin-dashboard",
   "version": "0.1.0",
   "private": true,
