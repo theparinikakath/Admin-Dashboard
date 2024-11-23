@@ -55,15 +55,19 @@ Before you start, ensure you have the following installed on your local machine:
 1. **Clone the repository:**
    Open your terminal and run the following command to clone the repository:
 
-   git clone https://github.com/your-username/role-management-dashboard.git
+   git clone https://github.com/theparinikakath/Admin-Dashboard.git
+
+   OR
+
+   gh repo clone theparinikakath/Admin-Dashboard
 
 
-2. **Navigate to the project folder:**
+3. **Navigate to the project folder:**
 
-   cd role-management-dashboard
+   Main components - src folder
 
 
-3. **Install the dependencies:**
+4. **Install the dependencies:**
    Run the following command to install all the required dependencies:
 
    npm install
@@ -71,7 +75,7 @@ Before you start, ensure you have the following installed on your local machine:
    yarn install
 
 
-4. **Start the development server:**
+5. **Start the development server:**
    Once the dependencies are installed, run the following command to start the development server:
  
    npm start
