@@ -138,6 +138,5 @@ This project is made by ©️ Parinika Kath on 22nd November, 2024
 - **React** for providing a robust and efficient way to build dynamic UIs.
 - **React-Bootstrap** for easily integrating Bootstrap components with React.
 
-- **Thanks to VRV Security for this opportunity!** 😊😊😊😊
 
 
